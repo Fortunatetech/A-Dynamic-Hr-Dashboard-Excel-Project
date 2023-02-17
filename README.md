@@ -1,6 +1,6 @@
 ## A-Dynamic-Hr-Dashboard-Excel-Project
 
-This Human Resources Analytics dashboard is based attrition rate inthe compnany.
+This Human Resources Analytics dashboard is based attrition rate in a compnany.
 
 Attrition is the gradual reduction of a workforce as employees leave or retire. 
 This is usually measured by what is called the attrition rate. Most employers want a low attrition rate because it means that employees are satisfied and 
